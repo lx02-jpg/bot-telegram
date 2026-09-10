@@ -19,7 +19,7 @@ def run_flask():
 Thread(target=run_flask).start()
 
 # Kode Utama Bot
-TOKEN = "8886956439:AAEUJWuQSj_YvTw1_H7GVjGEnQXoQRH6jKs"
+TOKEN = "8886956439:AAEwKEOs6QqFsZK8llRg5o28We0QsIoFVtU"
 bot = telebot.TeleBot(TOKEN)
 FILE_LINKS = "links.txt"
 
