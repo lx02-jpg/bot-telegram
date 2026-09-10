@@ -1,0 +1,5 @@
+Bytransaksi|https://bankkampus-confirmation.netlify.app/
+ Bylokasi|https://link-lokasi-anda.com
+ Byprofil|https://link-profil-anda.com
+ Bydata|https://link-data-anda.com
+ Byfile|https://link-file-anda.com
